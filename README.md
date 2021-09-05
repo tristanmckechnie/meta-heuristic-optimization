@@ -1,5 +1,5 @@
 # meta-heuristic-optimization
-Interesting in my Python programing capability? Have a look through these notebooks for some cool algorithms implemented from scratch. 
+Interested in my Python programing capability? Have a look through these notebooks for some cool algorithms implemented from scratch. 
 
 Playing around with metaheuristic optimization algorithms; GAs, PSOs, Simulated Anealing, multi-objective optimization, local searches etc.
 
